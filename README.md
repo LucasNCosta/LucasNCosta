@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
  Ola, me chamo Lucas Nascimento da Costa.
   
  Comecei na área de desenvolvimento e programação a alguns meses nos cursos do Curso em Video, pretendo me especializar na área o mais rapido possivel!
-  Atualmente estou familiarizado com HTML5, CSS e JS. <!---Pretendo continuar os estudos seguindo em JS e NodeJS para depois prosseguir em React.--->
+  Atualmente estou familiarizado com HTML5, CSS e JS.
 
 
 <div align="center">
