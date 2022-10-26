@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @LucasNCosta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
+!---
 LucasNCosta/LucasNCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
  <details>
  <summary>Um pouco sobre mim!
   
- Ola, me chamo Walter Emanuel Rodrigues.
+ Ola, me chamo Lucas Nascimento da Costa.
   
  Comecei na área de desenvolvimento e programação a alguns meses nos cursos do Curso em Video, pretendo me especializar na área o mais rapido possivel!
   Atualmente estou familiarizado com HTML5, CSS e JS. <!---Pretendo continuar os estudos seguindo em JS e NodeJS para depois prosseguir em React.--->
