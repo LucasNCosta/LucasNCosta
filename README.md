@@ -1,35 +1,18 @@
-<!---
-LucasNCosta/LucasNCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- <details>
- <summary>Um pouco sobre mim!
-  
- Ola, me chamo Lucas Nascimento da Costa.
-  
- Comecei na área de desenvolvimento e programação a alguns meses nos cursos do Curso em Video, pretendo me especializar na área o mais rapido possivel!
-  Atualmente estou familiarizado com HTML5, CSS e JS.
+# 💫 About Me:
+Um pouco sobre mim!<br>  <br>Olá, me chamo Lucas Nascimento da Costa.<br><br>Comecei na área de desenvolvimento e programação a alguns meses nos cursos do Curso em Video, pretendo me especializar na área o mais rápido possível!<br>Atualmente estou familiarizado com HTML5, CSS e JS.
 
 
-<div align="center">
-  <a href="https://github.com/LucasNCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNCosta&show_icons=true&theme=dark"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tagram.com/lucas.costa19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-costa-9530b3246/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@lucas.batman?lang=pt-BR) 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNCosta&layout=compact&langs_count=16&theme=radical"/>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LucasNCosta&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucasNCosta&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNCosta&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" height="60" style="vertical-align:top; margin:4px">
+---
+[![](https://visitcount.itsvg.in/api?id=LucasNCosta&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!---<img src ="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="60" style="vertical-align:top; margin:4px">
-</div>--->
-  
-<div align="center"> 
-  <a href="https://www.instagram.com/lucas.costa19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- 
- <!---<a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--->
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
