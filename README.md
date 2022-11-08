@@ -16,3 +16,5 @@ Um pouco sobre mim!<br>  <br>Olá, me chamo Lucas Nascimento da Costa.<br><br>Co
 [![](https://visitcount.itsvg.in/api?id=LucasNCosta&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/LucasNCosta/LucasNCosta/blob/output/github-contribution-grid-snake.gif)
